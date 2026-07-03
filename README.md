@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=LinkPanda&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Authority%20Link%20Building%20%26%20SEO%20Agency&descAlignY=55&descSize=18" width="100%"/>
 </a>
 
-<h1 align="center">Authority Link Building & SEO Solutions 🐼</h1>
+<h1 align="center">Authority Link Building & SEO Solutions </h1>
 
 <p align="center">
   A UK-based link building and SEO partner focused on authority, ethical practices, and transparency — helping B2B and SaaS brands grow organic traffic, rankings, and pipeline.
